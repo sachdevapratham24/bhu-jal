@@ -1,0 +1,281 @@
+[
+  {
+    "state": "Andhra Pradesh",
+    "stateCode": "AP",
+    "stageOfExtractionPct": 57.95,
+    "category": "Safe",
+    "annualRecharge": 28.37,
+    "annualExtraction": 16.44,
+    "source": "CGWB Dynamic Ground Water Resources of India, 2022"
+  },
+  {
+    "state": "Arunachal Pradesh",
+    "stateCode": "AR",
+    "stageOfExtractionPct": 8.49,
+    "category": "Safe",
+    "annualRecharge": 4.36,
+    "annualExtraction": 0.37,
+    "source": "CGWB Dynamic Ground Water Resources of India, 2022"
+  },
+  {
+    "state": "Assam",
+    "stateCode": "AS",
+    "stageOfExtractionPct": 21.98,
+    "category": "Safe",
+    "annualRecharge": 26.11,
+    "annualExtraction": 5.74,
+    "source": "CGWB Dynamic Ground Water Resources of India, 2022"
+  },
+  {
+    "state": "Bihar",
+    "stateCode": "BR",
+    "stageOfExtractionPct": 42.79,
+    "category": "Safe",
+    "annualRecharge": 29.19,
+    "annualExtraction": 11.29,
+    "source": "CGWB Dynamic Ground Water Resources of India, 2022"
+  },
+  {
+    "state": "Chhattisgarh",
+    "stateCode": "CG",
+    "stageOfExtractionPct": 29.79,
+    "category": "Safe",
+    "annualRecharge": 14.20,
+    "annualExtraction": 4.23,
+    "source": "CGWB Dynamic Ground Water Resources of India, 2022"
+  },
+  {
+    "state": "Goa",
+    "stateCode": "GA",
+    "stageOfExtractionPct": 25.00,
+    "category": "Safe",
+    "annualRecharge": 0.36,
+    "annualExtraction": 0.09,
+    "source": "CGWB Dynamic Ground Water Resources of India, 2022"
+  },
+  {
+    "state": "Gujarat",
+    "stateCode": "GJ",
+    "stageOfExtractionPct": 69.42,
+    "category": "Safe",
+    "annualRecharge": 20.65,
+    "annualExtraction": 14.33,
+    "source": "CGWB Dynamic Ground Water Resources of India, 2022"
+  },
+  {
+    "state": "Haryana",
+    "stateCode": "HR",
+    "stageOfExtractionPct": 135.27,
+    "category": "Over-Exploited",
+    "annualRecharge": 7.45,
+    "annualExtraction": 10.07,
+    "source": "CGWB Dynamic Ground Water Resources of India, 2022"
+  },
+  {
+    "state": "Himachal Pradesh",
+    "stateCode": "HP",
+    "stageOfExtractionPct": 34.20,
+    "category": "Safe",
+    "annualRecharge": 0.39,
+    "annualExtraction": 0.13,
+    "source": "CGWB Dynamic Ground Water Resources of India, 2022"
+  },
+  {
+    "state": "Jharkhand",
+    "stateCode": "JH",
+    "stageOfExtractionPct": 32.14,
+    "category": "Safe",
+    "annualRecharge": 5.25,
+    "annualExtraction": 1.69,
+    "source": "CGWB Dynamic Ground Water Resources of India, 2022"
+  },
+  {
+    "state": "Karnataka",
+    "stateCode": "KA",
+    "stageOfExtractionPct": 69.10,
+    "category": "Safe",
+    "annualRecharge": 12.13,
+    "annualExtraction": 8.38,
+    "source": "CGWB Dynamic Ground Water Resources of India, 2022"
+  },
+  {
+    "state": "Kerala",
+    "stateCode": "KL",
+    "stageOfExtractionPct": 47.39,
+    "category": "Safe",
+    "annualRecharge": 7.17,
+    "annualExtraction": 3.40,
+    "source": "CGWB Dynamic Ground Water Resources of India, 2022"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "stateCode": "MP",
+    "stageOfExtractionPct": 45.50,
+    "category": "Safe",
+    "annualRecharge": 31.36,
+    "annualExtraction": 14.27,
+    "source": "CGWB Dynamic Ground Water Resources of India, 2022"
+  },
+  {
+    "state": "Maharashtra",
+    "stateCode": "MH",
+    "stageOfExtractionPct": 57.23,
+    "category": "Safe",
+    "annualRecharge": 34.65,
+    "annualExtraction": 19.83,
+    "source": "CGWB Dynamic Ground Water Resources of India, 2022"
+  },
+  {
+    "state": "Manipur",
+    "stateCode": "MN",
+    "stageOfExtractionPct": 15.12,
+    "category": "Safe",
+    "annualRecharge": 0.82,
+    "annualExtraction": 0.12,
+    "source": "CGWB Dynamic Ground Water Resources of India, 2022"
+  },
+  {
+    "state": "Meghalaya",
+    "stateCode": "ML",
+    "stageOfExtractionPct": 10.26,
+    "category": "Safe",
+    "annualRecharge": 1.56,
+    "annualExtraction": 0.16,
+    "source": "CGWB Dynamic Ground Water Resources of India, 2022"
+  },
+  {
+    "state": "Mizoram",
+    "stateCode": "MZ",
+    "stageOfExtractionPct": 5.30,
+    "category": "Safe",
+    "annualRecharge": 0.38,
+    "annualExtraction": 0.02,
+    "source": "CGWB Dynamic Ground Water Resources of India, 2022"
+  },
+  {
+    "state": "Nagaland",
+    "stateCode": "NL",
+    "stageOfExtractionPct": 12.14,
+    "category": "Safe",
+    "annualRecharge": 0.57,
+    "annualExtraction": 0.07,
+    "source": "CGWB Dynamic Ground Water Resources of India, 2022"
+  },
+  {
+    "state": "Odisha",
+    "stateCode": "OD",
+    "stageOfExtractionPct": 28.43,
+    "category": "Safe",
+    "annualRecharge": 17.55,
+    "annualExtraction": 4.99,
+    "source": "CGWB Dynamic Ground Water Resources of India, 2022"
+  },
+  {
+    "state": "Punjab",
+    "stateCode": "PB",
+    "stageOfExtractionPct": 166.03,
+    "category": "Over-Exploited",
+    "annualRecharge": 12.90,
+    "annualExtraction": 21.42,
+    "source": "CGWB Dynamic Ground Water Resources of India, 2022"
+  },
+  {
+    "state": "Rajasthan",
+    "stateCode": "RJ",
+    "stageOfExtractionPct": 140.45,
+    "category": "Over-Exploited",
+    "annualRecharge": 11.01,
+    "annualExtraction": 15.46,
+    "source": "CGWB Dynamic Ground Water Resources of India, 2022"
+  },
+  {
+    "state": "Sikkim",
+    "stateCode": "SK",
+    "stageOfExtractionPct": 9.80,
+    "category": "Safe",
+    "annualRecharge": 0.10,
+    "annualExtraction": 0.01,
+    "source": "CGWB Dynamic Ground Water Resources of India, 2022"
+  },
+  {
+    "state": "Tamil Nadu",
+    "stateCode": "TN",
+    "stageOfExtractionPct": 76.59,
+    "category": "Semi-Critical",
+    "annualRecharge": 2.30,
+    "annualExtraction": 1.76,
+    "source": "CGWB Dynamic Ground Water Resources of India, 2022"
+  },
+  {
+    "state": "Telangana",
+    "stateCode": "TS",
+    "stageOfExtractionPct": 62.38,
+    "category": "Safe",
+    "annualRecharge": 13.36,
+    "annualExtraction": 8.34,
+    "source": "CGWB Dynamic Ground Water Resources of India, 2022"
+  },
+  {
+    "state": "Tripura",
+    "stateCode": "TR",
+    "stageOfExtractionPct": 24.67,
+    "category": "Safe",
+    "annualRecharge": 1.82,
+    "annualExtraction": 0.45,
+    "source": "CGWB Dynamic Ground Water Resources of India, 2022"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "stateCode": "UP",
+    "stageOfExtractionPct": 73.94,
+    "category": "Semi-Critical",
+    "annualRecharge": 31.94,
+    "annualExtraction": 23.61,
+    "source": "CGWB Dynamic Ground Water Resources of India, 2022"
+  },
+  {
+    "state": "Uttarakhand",
+    "stateCode": "UK",
+    "stageOfExtractionPct": 36.18,
+    "category": "Safe",
+    "annualRecharge": 1.88,
+    "annualExtraction": 0.68,
+    "source": "CGWB Dynamic Ground Water Resources of India, 2022"
+  },
+  {
+    "state": "West Bengal",
+    "stateCode": "WB",
+    "stageOfExtractionPct": 38.52,
+    "category": "Safe",
+    "annualRecharge": 29.57,
+    "annualExtraction": 11.39,
+    "source": "CGWB Dynamic Ground Water Resources of India, 2022"
+  },
+  {
+    "state": "Delhi",
+    "stateCode": "DL",
+    "stageOfExtractionPct": 149.63,
+    "category": "Over-Exploited",
+    "annualRecharge": 0.27,
+    "annualExtraction": 0.40,
+    "source": "CGWB Dynamic Ground Water Resources of India, 2022"
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "stateCode": "JK",
+    "stageOfExtractionPct": 30.15,
+    "category": "Safe",
+    "annualRecharge": 4.82,
+    "annualExtraction": 1.45,
+    "source": "CGWB Dynamic Ground Water Resources of India, 2022"
+  },
+  {
+    "state": "Ladakh",
+    "stateCode": "LA",
+    "stageOfExtractionPct": 5.10,
+    "category": "Safe",
+    "annualRecharge": 0.20,
+    "annualExtraction": 0.01,
+    "source": "CGWB Dynamic Ground Water Resources of India, 2022"
+  }
+]

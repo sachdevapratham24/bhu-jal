@@ -1,0 +1,42 @@
+[
+  {
+    "id": "rainwater",
+    "title": "Rainwater Harvesting",
+    "icon": "CloudRain",
+    "description": "Capturing rainwater at the point it falls — from rooftops, fields, and ponds — to recharge aquifers and reduce runoff. Techniques include rooftop collection tanks, check dams, and percolation pits.",
+    "stat": "A 100m² rooftop can collect ~80,000 litres per monsoon season",
+    "impact": "Can raise water table by 0.5–2 metres in 3–5 years",
+    "link": "https://jalshakti-dowr.gov.in/schemes-projects/jal-jeevan-mission",
+    "linkLabel": "Jal Jeevan Mission →"
+  },
+  {
+    "id": "drip",
+    "title": "Drip Irrigation",
+    "icon": "Droplets",
+    "description": "Delivers water directly to the root zone through a network of pipes and emitters, reducing evaporation and runoff. Uses 30–50% less water than flood irrigation while maintaining or improving crop yields.",
+    "stat": "India irrigates ~10 million hectares via micro-irrigation",
+    "impact": "Saves up to 50% water vs. flood irrigation",
+    "link": "https://pmksy.gov.in/microirrigation/",
+    "linkLabel": "PM-KUSUM Scheme →"
+  },
+  {
+    "id": "cropshift",
+    "title": "Crop Pattern Shift",
+    "icon": "Leaf",
+    "description": "Replacing water-intensive crops (like paddy and sugarcane in semi-arid zones) with less thirsty alternatives such as millets, pulses, or oilseeds. A 10% shift from paddy to millet can save billions of litres annually.",
+    "stat": "Paddy needs ~1,400 litres per kg; millet needs ~300 litres",
+    "impact": "Could reduce agricultural water demand by 15–25%",
+    "link": "https://www.mofpi.gov.in/",
+    "linkLabel": "Millet Mission →"
+  },
+  {
+    "id": "atalbhujal",
+    "title": "Atal Bhujal Yojana",
+    "icon": "Building2",
+    "description": "India's flagship groundwater management programme, covering 8,353 Gram Panchayats across 7 states (Gujarat, Haryana, Karnataka, Madhya Pradesh, Maharashtra, Rajasthan, Uttar Pradesh). Uses community-based management and digital monitoring to cut over-extraction.",
+    "stat": "₹6,000 crore programme across 7 critical states",
+    "impact": "Targets 35% reduction in groundwater extraction in project areas",
+    "link": "https://atalbhujal.gov.in/",
+    "linkLabel": "Official Portal →"
+  }
+]

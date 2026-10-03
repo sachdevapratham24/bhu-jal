@@ -1,0 +1,46 @@
+[
+  {
+    "id": "grace",
+    "title": "GRACE Satellites",
+    "subtitle": "Gravity Recovery and Climate Experiment",
+    "icon": "Satellite",
+    "color": "#00b4d8",
+    "description": "NASA's GRACE and GRACE-FO twin satellites measure tiny changes in Earth's gravity field caused by shifting water mass. When aquifers deplete, less mass = lower gravity = detectable signal from orbit. GRACE data revealed India lost 109 km³ of groundwater between 2002–2008 in the Indo-Gangetic Plain alone.",
+    "detail": "Data resolution: ~450 km. Monthly measurements. Free via NASA Earthdata.",
+    "source": "https://grace.jpl.nasa.gov/",
+    "sourceLabel": "NASA GRACE Portal"
+  },
+  {
+    "id": "dwlr",
+    "title": "Digital Water Level Recorders",
+    "subtitle": "IoT Telemetry from 22,000+ Wells",
+    "icon": "Wifi",
+    "color": "#2d6a4f",
+    "description": "CGWB has installed over 22,000 Digital Water Level Recorders (DWLRs) across India — sensors in observation wells that measure water depth every 15 minutes and transmit data via GSM/4G to a central server. This replaces once-a-quarter manual dipping with real-time alerts.",
+    "detail": "Data flows into India-WRIS at indiawris.gov.in for public access.",
+    "source": "https://indiawris.gov.in/",
+    "sourceLabel": "India-WRIS Portal"
+  },
+  {
+    "id": "gis",
+    "title": "GIS Dashboards & India-WRIS",
+    "subtitle": "Web-Based Water Resources Information",
+    "icon": "Map",
+    "color": "#f4a261",
+    "description": "The India Water Resources Information System (India-WRIS) integrates GRACE satellite data, DWLR sensor readings, rainfall records, and basin-level hydrology into an interactive GIS dashboard accessible to states, districts, and the public. It powers CGWB's assessment of 6,762 units.",
+    "detail": "Includes aquifer maps, groundwater quality data, and trend charts by basin.",
+    "source": "https://indiawris.gov.in/",
+    "sourceLabel": "India-WRIS Portal"
+  },
+  {
+    "id": "ai",
+    "title": "AI & Predictive Forecasting",
+    "subtitle": "Machine Learning for Aquifer Futures",
+    "icon": "Brain",
+    "color": "#7b2d8b",
+    "description": "Researchers are applying LSTM neural networks and random forest models to GRACE + DWLR + rainfall datasets to predict water table levels 3–12 months ahead. CGWB and IITs are piloting AI-based 'groundwater weather forecasts' to give farmers and planners early warning of drought-stress.",
+    "detail": "Early models achieve 85–92% accuracy in seasonal prediction for key aquifer zones.",
+    "source": "https://cgwb.gov.in/",
+    "sourceLabel": "CGWB Research"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "annualRecharge": 448.52,
+  "annualExtractable": 407.75,
+  "annualExtraction": 247.22,
+  "stageOfExtractionPct": 60.63,
+  "totalAssessmentUnits": 6762,
+  "overExploitedUnits": 730,
+  "overExploitedPct": 10.80,
+  "safeUnitsPct": 73.14,
+  "source": "CGWB Dynamic Ground Water Resources of India, 2025",
+  "reportYear": 2025,
+  "notes": "All figures in BCM (Billion Cubic Metres) unless noted. Stage of extraction = (annual extraction / annual extractable resources) × 100."
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "stapleDiet",
+    "question": "1. What staple grain dominates your meals or farming? (Agricultural Footprint)",
+    "category": "agriculture",
+    "options": [
+      { "label": "Paddy / White Rice (High water footprint ~1,400 L/kg)", "value": "rice", "virtualWaterLiters": 520000 },
+      { "label": "Wheat & Whole Grains (Moderate footprint ~800 L/kg)", "value": "wheat", "virtualWaterLiters": 310000 },
+      { "label": "Millets (Bajra/Ragi/Jowar) & Pulses (Low footprint ~300 L/kg)", "value": "millets", "virtualWaterLiters": 160000 },
+      { "label": "Cash Crops / Sugarcane / Dairy intensive diet", "value": "cash_crops", "virtualWaterLiters": 680000 },
+      { "label": "Balanced mixed vegetarian diet", "value": "mixed_diet", "virtualWaterLiters": 360000 }
+    ]
+  },
+  {
+    "id": "farmlandScale",
+    "question": "2. Does your family cultivate irrigated land? (Agricultural Footprint)",
+    "category": "agriculture",
+    "options": [
+      { "label": "No agricultural land (100% urban/consumer household)", "value": "none", "farmLitersPerYear": 0 },
+      { "label": "Kitchen garden / micro-farm with drip or rainwater (<1 acre)", "value": "micro", "farmLitersPerYear": 40000 },
+      { "label": "Small family farm (1–3 acres) irrigated with borewell/canal", "value": "small", "farmLitersPerYear": 350000 },
+      { "label": "Medium farm (3–8 acres) flood-irrigated with tubewell pumps", "value": "medium", "farmLitersPerYear": 1100000 },
+      { "label": "Large commercial farm (>8 acres) with multiple deep borewells", "value": "large", "farmLitersPerYear": 2800000 }
+    ]
+  },
+  {
+    "id": "urbanWaterSource",
+    "question": "3. What is the main source of water at your urban home or hostel? (Urban)",
+    "category": "urban",
+    "options": [
+      { "label": "Private borewell / tubewell in apartment (100% Groundwater)", "value": "borewell", "groundwaterFraction": 0.95 },
+      { "label": "Private water tankers (Commercial groundwater extraction)", "value": "tanker", "groundwaterFraction": 0.90 },
+      { "label": "Municipal piped supply (Surface water from river/reservoir)", "value": "municipal", "groundwaterFraction": 0.20 },
+      { "label": "Dual supply: Municipal tap + Borewell backup", "value": "dual", "groundwaterFraction": 0.60 },
+      { "label": "Rooftop rainwater harvesting system + Treated municipal water", "value": "rwh", "groundwaterFraction": 0.10 }
+    ]
+  },
+  {
+    "id": "bathingHabit",
+    "question": "4. What is your daily bathing habit? (Urban)",
+    "category": "urban",
+    "options": [
+      { "label": "Traditional Indian bucket bath (~20–25 litres)", "value": "bucket", "dailyLiters": 25 },
+      { "label": "Quick overhead shower under 5 minutes (~45 litres)", "value": "quick_shower", "dailyLiters": 45 },
+      { "label": "Average shower of 5–10 minutes (~90 litres)", "value": "avg_shower", "dailyLiters": 90 },
+      { "label": "Long shower (>10 minutes) or bathtub soak (~180 litres)", "value": "long_shower", "dailyLiters": 180 },
+      { "label": "Aerated water-saving showerhead (~35 litres)", "value": "aerated", "dailyLiters": 35 }
+    ]
+  },
+  {
+    "id": "washingHabit",
+    "question": "5. How do you clean vehicles, outdoors, and laundry? (Urban)",
+    "category": "urban",
+    "options": [
+      { "label": "Running hose-pipe wash for car, bike & veranda (~140 litres/day)", "value": "hose_pipe", "dailyLiters": 140 },
+      { "label": "Wet cloth wipe & bucket for vehicles (~20 litres/day)", "value": "bucket_wipe", "dailyLiters": 20 },
+      { "label": "Full-load washing machine with RO reject water reuse (~30 litres/day)", "value": "efficient_laundry", "dailyLiters": 30 },
+      { "label": "Standard washing machine daily cycles (~70 litres/day)", "value": "standard_laundry", "dailyLiters": 70 },
+      { "label": "Commercial waterless car cleaning / No personal vehicle (~10 litres/day)", "value": "minimal", "dailyLiters": 10 }
+    ]
+  }
+]
