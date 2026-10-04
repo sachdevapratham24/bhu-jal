@@ -96,9 +96,6 @@ export function Footer() {
         {/* Bottom bar */}
         <div className="border-t border-white/10 pt-6 flex flex-col sm:flex-row items-center justify-between gap-3">
           <p className="text-xs text-white/40">
-            Created for Lovely Professional University, CHE110 · 2025–26
-          </p>
-          <p className="text-xs text-white/40">
             All national figures sourced from CGWB 2025 report · State data pending publication
           </p>
         </div>
